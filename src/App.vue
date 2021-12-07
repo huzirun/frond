@@ -2,7 +2,7 @@
   <div>
     <Header/>
   </div>
-  <div style="display: flex">
+  <div style="display: flex; padding-top: 10px">
     <Aside/>
     <router-view/>
   </div>
