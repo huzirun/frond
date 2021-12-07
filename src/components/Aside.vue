@@ -10,6 +10,7 @@
         :collapse="isCollapse"
         @open="handleOpen"
         @close="handleClose"
+        style="height: 100vh"
     >
       <el-sub-menu index="1">
         <template #title>
